@@ -1,3 +1,18 @@
-p{
-    color:Red;
+#para1 {
+    font-size: 18px;
+  color: #2c3e50;
+  background-color: #ecf0f1;
+  padding: 10px;
+  border-left: 4px solid #3498db;
+  margin-bottom: 10px;
+
+}
+
+#feature2 {
+    font-size: 18px;
+  color: #ffffff;
+  background-color: #27ae60;
+  padding: 10px;
+  border-left: 4px solid #2ecc71;
+
 }
